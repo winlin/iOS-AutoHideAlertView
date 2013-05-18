@@ -3,7 +3,7 @@
 //  test
 //
 //  Created by gtliu on 5/17/13.
-//  Copyright (c) 2013 wicresoft.com. All rights reserved.
+//  Copyright (c) 2013 gtliu All rights reserved.
 //
 
 #import "AutoHideAlertView.h"
